@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# DiaryApp
-=======
-<<<<<<< HEAD
-# DiaryApp
+
 =======
 # Diary Application
 An application that supports online sales of customizable diaries, where the admin interface and client interface are provided as a web-application. 
@@ -23,7 +19,7 @@ PHP 7.1
 Bootstrap 4
 Jquery-3.3.1.min.js
 html 5
-
+CSS 3
 
 ## Database details
 ....
