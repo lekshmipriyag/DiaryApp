@@ -1,5 +1,3 @@
-
-=======
 # Diary Application
 An application that supports online sales of customizable diaries, where the admin interface and client interface are provided as a web-application. 
 
